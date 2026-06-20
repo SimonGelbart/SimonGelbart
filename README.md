@@ -1,16 +1,22 @@
-## Hi there 👋
+# Simon Gelbart
 
-<!--
-**SimonGelbart/SimonGelbart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+French senior backend developer interested in architecture-heavy tooling, deterministic systems, and developer productivity.
 
-Here are some ideas to get you started:
+I use this GitHub as a public engineering lab for personal projects: libraries, CLIs, automation tools, and backend architecture experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- [`pattrn`](https://github.com/SimonGelbart/pattrn) — fast immutable segmented-pattern matching for .NET
+- [`lorq`](https://github.com/SimonGelbart/lorq) — orchestration ledger for reproducible agent, tool, and skill evaluations
+
+## Themes
+
+- Backend architecture
+- API and package design
+- Performance-conscious libraries
+- Evaluation tooling
+- Automation and developer workflows
+
+## Site
+
+https://SimonGelbart.github.io
